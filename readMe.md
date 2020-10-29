@@ -6,9 +6,13 @@
 3. application.properties 가 아닌 application.yml을 사용한다.   
 4. 최근에 읽은 도서인 Clean Code에서 학습한 내용을 바탕으로 개발한다.
 
+## h2
+> h2/bin/./h2.shf
+> localhost:8082
 
-> Content
->> ㄷㅏ이어리 작성해서 crontab + batch
+
+## Content
+> ㄷㅏ이어리 작성해서 crontab + batch
 
 
 ### Additional 
